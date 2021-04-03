@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE script SYSTEM "SpeechRecPrompts_4.dtd">
+<script id="Amharic-1">
+  <metadata>
+    <key>
+			AmharicOne
+		</key>
+    <value>
+			SpeechRecorder Demonstration
+		</value>
+    <key>
+			ScriptName
+		</key>
+    <value>
+			SpeechRecorder Sample Recording Script
+		</value>
+    <key>
+			ScriptAuthor
+		</key>
+    <value>
+			Tesfa Yohannes
+		</value>
+    <key>
+			EmailAuthor
+		</key>
+    <value>
+			draxler@phonetik.uni-muenchen.de
+		</value>
+  </metadata>
+  <recordingscript>
+    <section mode="manual" name="Introduction" order="sequential" promptphase="idle" speakerdisplay="false">
+<recording itemcode="judges_1" postrecdelay="500" prerecdelay="2000" recduration="20000">
+<recprompt><mediaitem languageISO639code="gez"> (<Cell 'Sheet1'.A1>, <Cell 'Sheet1'.A2>, <Cell 'Sheet1'.A3>, <Cell 'Sheet1'.A4>, <Cell 'Sheet1'.A5>)። </mediaitem></recprompt>
+</recording></section>
+</recordingscript>
+</script>
