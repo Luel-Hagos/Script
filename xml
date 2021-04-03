@@ -29,8 +29,3 @@
   </metadata>
   <recordingscript>
     <section mode="manual" name="Introduction" order="sequential" promptphase="idle" speakerdisplay="false">
-<recording itemcode="judges_1" postrecdelay="500" prerecdelay="2000" recduration="20000">
-<recprompt><mediaitem languageISO639code="gez"> (<Cell 'Sheet1'.A1>, <Cell 'Sheet1'.A2>, <Cell 'Sheet1'.A3>, <Cell 'Sheet1'.A4>, <Cell 'Sheet1'.A5>)። </mediaitem></recprompt>
-</recording></section>
-</recordingscript>
-</script>
