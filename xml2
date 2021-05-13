@@ -1,6 +1,5 @@
 import xlrd
 txt = open("xm.txt", "a", encoding="utf-8")
-code_inc = 4001
 
 #Open the workbook
 wb = xlrd.open_workbook('Psalms4.xlsx')
