@@ -1,8 +1,8 @@
 import xlrd
 txt = open("xm.txt", "a", encoding="utf-8")
-
+filename = 'file.xlsx'
 #Open the workbook
-wb = xlrd.open_workbook('Psalms4.xlsx')
+wb = xlrd.open_workbook(filename)
 
 #Open the sheet by index
 sh = wb.sheet_by_index(0)
