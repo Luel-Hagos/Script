@@ -1,5 +1,5 @@
 import xlrd
-txt = open("t1.txt", "a", encoding="utf-8")
+txt = open("commen_xml2.txt", "a", encoding="utf-8")
 filename = 'file1.xlsx'
 #Open the workbook
 wb = xlrd.open_workbook(filename)
