@@ -1,24 +1,11 @@
 {
-    "name": "Test1",
     "type": "script",
-    "scriptId": 1245,
+    "scriptId": 1,
+    "name": "Test1", 
 
-  "virtualViewBox" : {
-    "height" : 500
-  }
-  ,
     "sections": [
       {
-        "name": "Empty section test",
-        "speakerDisplay": false,
-        "training": false,
-        "groups": []
-      },
-      {
-        "mode": "MANUAL",
-        "name": "Introduction",
-        "order": "SEQUENTIAL",
-
-        "speakerDisplay": true,
-        "training": true,
-        "groups":[
+        "name": "Introduction", 
+        "mode": "MANUAL", 
+        "order": "SEQUENTIAL", 
+        "groups" : [
